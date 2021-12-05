@@ -15,8 +15,8 @@ def score_dataset(X_train, X_valid, y_train, y_valid):
 def preliminary_investigation():
 
     # read the data
-    X_full = pd.read_csv('../data/house_price/train.csv', index_col='Id')
-    X_test_full = pd.read_csv('../data/house_price/test.csv', index_col='Id')
+    X_full = pd.read_csv('../../data/house_price/train.csv', index_col='Id')
+    X_test_full = pd.read_csv('../../data/house_price/test.csv', index_col='Id')
 
     # Remove rows with missing target, separate target from predictors
     X_full.dropna(axis=0, subset=['SalePrice'], inplace=True)
@@ -40,8 +40,8 @@ def preliminary_investigation():
 
 def drop_columns():
     # read the data
-    X_full = pd.read_csv('../data/house_price/train.csv', index_col='Id')
-    X_test_full = pd.read_csv('../data/house_price/test.csv', index_col='Id')
+    X_full = pd.read_csv('../../data/house_price/train.csv', index_col='Id')
+    X_test_full = pd.read_csv('../../data/house_price/test.csv', index_col='Id')
 
     # Remove rows with missing target, separate target from predictors
     X_full.dropna(axis=0, subset=['SalePrice'], inplace=True)
@@ -65,8 +65,8 @@ def drop_columns():
 
 def simple_imputation():
     # read the data
-    X_full = pd.read_csv('../data/house_price/train.csv', index_col='Id')
-    X_test_full = pd.read_csv('../data/house_price/test.csv', index_col='Id')
+    X_full = pd.read_csv('../../data/house_price/train.csv', index_col='Id')
+    X_test_full = pd.read_csv('../../data/house_price/test.csv', index_col='Id')
 
     # Remove rows with missing target, separate target from predictors
     X_full.dropna(axis=0, subset=['SalePrice'], inplace=True)

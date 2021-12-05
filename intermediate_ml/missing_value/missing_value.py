@@ -20,7 +20,7 @@ def drop_columns_with_missing_value():
     """
 
     # load the data
-    data = pd.read_csv('../data/melb_data.csv')
+    data = pd.read_csv('../../data/melb_data.csv')
 
     # select the target
     y = data.Price
@@ -54,7 +54,7 @@ def simple_imputation():
 
 
     # load the data
-    data = pd.read_csv('../data/melb_data.csv')
+    data = pd.read_csv('../../data/melb_data.csv')
 
     # select the target
     y = data.Price
@@ -89,7 +89,7 @@ def extension_to_imputation():
 
 
     # load the data
-    data = pd.read_csv('../data/melb_data.csv')
+    data = pd.read_csv('../../data/melb_data.csv')
 
     # select the target
     y = data.Price
