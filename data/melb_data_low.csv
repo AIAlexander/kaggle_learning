@@ -1,0 +1,15 @@
+Address,Rooms,Type,Price,Method,Distance,Postcode,Bedroom2,Bathroom,Car,Landsize,BuildingArea,YearBuilt,CouncilArea,Lattitude,Longtitude,Regionname,Propertycount
+9 Winswood Cl,4,h,1250000,PI,17.2,3133,4,2,2,986,,,,-37.84679,145.20051,Eastern Metropolitan,4280
+149 Graham Rd,5,h,1316000,SP,8.9,3084,5,3,3,696,,,,-37.73501,145.08341,Eastern Metropolitan,2698
+16 chesterfield Ct,4,h,951000,S,14.7,3152,4,2,2,704,200,1981,,-37.85639,145.23536,Eastern Metropolitan,5424
+12 Armagh Cr,4,h,1323000,S,14.7,3152,4,2,2,551,,,,-37.87608,145.2239,Eastern Metropolitan,7082
+34 Fewster Dr,3,h,970000,S,14.7,3152,3,2,2,674,,,,-37.8836,145.22805,Eastern Metropolitan,7082
+15 Mara Cl,4,h,1330000,S,14.7,3152,4,2,2,717,191,1980,,-37.86887,145.22116,Eastern Metropolitan,7082
+76 Kenmare St,2,h,650000,PI,14.5,3087,2,1,1,210,79,2006,,-37.70657,145.07878,Northern Metropolitan,2329
+5 Nuragi Ct,4,h,635000,S,14.7,3030,4,2,1,662,172,1980,,-37.89327,144.64789,Western Metropolitan,16166
+9 Black St,3,h,582000,S,16.5,3049,3,2,2,256,,,,-37.67917,144.8939,Northern Metropolitan,2474
+12 Strada Cr,4,h,1245000,S,16.7,3150,4,2,2,652,,1981,,-37.90562,145.16761,South-Eastern Metropolitan,7392
+77 Merrett Dr,3,h,1031000,SP,6.8,3016,3,2,2,333,133,1995,,-37.85927,144.87904,Western Metropolitan,6380
+83 Power St,3,h,1170000,S,6.8,3016,3,2,4,436,,1997,,-37.85274,144.88738,Western Metropolitan,6380
+96 Verdon St,4,h,2500000,PI,6.8,3016,4,1,5,866,157,1920,,-37.85908,144.89299,Western Metropolitan,6380
+6 Agnes St,4,h,1285000,SP,6.3,3013,4,1,1,362,112,1920,,-37.81188,144.88449,Western Metropolitan,6543
